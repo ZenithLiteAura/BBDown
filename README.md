@@ -317,6 +317,7 @@ API详细请参考[json-api-doc.md](./json-api-doc.md)
 
 ![2](https://user-images.githubusercontent.com/20772925/88478901-5e1cdc00-cf7e-11ea-97c1-154b9226564e.png)
 
+𖤣𖥧𖥣｡𖤣𖥧𖥣｡
 # 致谢
 
 * https://github.com/codebude/QRCoder
